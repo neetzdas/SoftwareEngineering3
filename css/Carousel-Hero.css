@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+div.jumbotron.carousel-hero {
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-nature {
+  background-image: url('../images/bg.jpg');
+}
+
+div.jumbotron.hero-photography {
+  background-image: url('../images/bg1.jpg');
+}
+
+div.jumbotron.hero-technology {
+  background-image: url('../images/bg2.jpg');
+}
+
+h1.hero-title{
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  font-size:100px;
+  color: #fff;
+  font-family: 'Amatic SC', cursive;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  font-size:25px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: #fff;
+  font-family: "Comic Sans", cursive, sans-serif;
+}
+
